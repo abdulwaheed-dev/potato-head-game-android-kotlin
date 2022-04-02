@@ -12,3 +12,6 @@ Design of a potato by adding multiple things over it, i.e.,
 using checkbox for the options to be applied on the potato and 
 
 its action listener to hide and unhide the images.
+
+# Screenshot:
+![screenshot](https://github.com/abdulwaheedchachar/potato-head-game-android-kotlin/blob/master/screenshot.png)
